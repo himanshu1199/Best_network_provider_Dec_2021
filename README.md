@@ -1,4 +1,4 @@
-# Best network provider Dec 2021 Data Analysis  
+# Best network provider in Dec 2021 Data Analysis  
 
 In this project, I performed Data Analysis and get some finding from it, and come up with the particular conclusion. 
 
@@ -16,7 +16,7 @@ In this project, I performed Data Analysis and get some finding from it, and com
 
   - Dataset which I used is from https://indiaai.gov.in/ , All India Crowdsourced Mobile Data Speed Measurement for December 2021 https://data.gov.in/resource/all-india-crowdsourced-mobile-data-speed-measurement-december-2021.
 
-  - Initialling Dataset was in csv format
+  - Initially Dataset was in csv format
 
 - ### Data Cleaning and Modification 
 

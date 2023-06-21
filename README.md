@@ -1,6 +1,6 @@
 # Best network provider in Dec 2021 Data Analysis  
 
-In this project, I performed Data Analysis and get some finding from it, and come up with the particular conclusion. 
+In this project, I performed Data Analysis and get some findings from it, and come up with a particular conclusion. 
 
 ## Language and IDE Software Used 
 
@@ -8,15 +8,15 @@ In this project, I performed Data Analysis and get some finding from it, and com
 - IDE:- Jupyter notebook
 
 ## Steps, I follow 
-- ### Quetion
-  Who is the best netwrok provider in Dec 2021, India
+- ### Question
+  Who is the best network provider in Dec 2021, India
   ( Parameters:- Networks with speed more than average, Strong signal strength, More use of 4G technology )
  
 - ### Data gathering 
 
   - Dataset which I used is from https://indiaai.gov.in/ , All India Crowdsourced Mobile Data Speed Measurement for December 2021 https://data.gov.in/resource/all-india-crowdsourced-mobile-data-speed-measurement-december-2021.
 
-  - Initially Dataset was in csv format
+  - Initially, the Dataset was in CSV format
 
 - ### Data Cleaning and Modification 
 
@@ -26,8 +26,8 @@ In this project, I performed Data Analysis and get some finding from it, and com
 - ### Removing the outliers 
 
   -   Remove outliers from speed columns
-      Remove all the values in speed column which was outside the range of 144 kbps and 100000 kbps. (with the refference of Airtel experts 
-      and wikipedia)
+      Remove all the values in the speed column which was outside the range of 144 kbps and 100000 kbps. (with the reference of Airtel experts 
+      and Wikipedia)
 
 - ### Data Analysis and Findings
   
